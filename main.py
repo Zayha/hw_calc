@@ -7,7 +7,7 @@ def main():
     calc = Calculator(a, b)
     print(calc)
     expected_str = f"{a = }, {b = }"
-    print('hehe')
+    print('hello')
     print(expected_str)
 
 
